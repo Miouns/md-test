@@ -1,0 +1,48 @@
+:root {
+  --bg: #171712;
+}
+
+* {
+  box-sizing: border-box;
+ 
+}
+
+#darkmode {
+  background-color: #171712;
+  color: black;
+}
+
+body content {
+  font-family: sans-serif;
+  line-height: 1.5em;
+  color: white;
+  background: #5e5c44;
+}
+
+.top {
+  text-align: center;
+}
+
+.mart {
+  margin-top: 3px;
+}
+
+.marti {
+  margin-top: 3px;
+}
+
+.desc {
+  color: #454241
+}
+
+post {
+  text-indent: 30px;
+}
+
+.notFound {
+  color: white;
+}
+
+.notFoundBody {
+  background-color: var(--bg)
+}
